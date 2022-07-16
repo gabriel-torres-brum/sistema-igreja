@@ -1,0 +1,17 @@
+{
+  "name": {
+    "required": "Nome é um campo obrigatório"
+  },
+  "birthday": {
+    "required": "Data de nascimento é um campo obrigatório",
+    "matches": "Data de nascimento inválida"
+  },
+  "phone1": {
+    "required": "Telefone principal é um campo obrigatório",
+    "matches": "Número de telefone inválido"
+  },
+  "phone2": {
+    "required": "Telefone extra é um campo obrigatório",
+    "matches": "Número de telefone inválido"
+  }
+}
